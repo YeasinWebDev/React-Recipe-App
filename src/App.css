@@ -1,0 +1,19 @@
+.searchBtn{
+    font-size: 20px;
+    color: #000;
+    height: 40px;
+    padding-left: 6px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.tag{
+    margin:5px;
+}
