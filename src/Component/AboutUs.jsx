@@ -26,8 +26,8 @@ function AboutUs() {
 
   return (
     <div className='about mx-[10%] pb-[10vw]'>
-      <div className='about-img flex flex-col mt-2 w-[30vw] mx-[25%] mb-[80px]'>
-        <img className='img' src="../../img/kitchen Tools.jpg" alt="" />
+      <div className='about-img flex flex-col mt-2 w-[30vw] mx-[32%] mb-[80px]'>
+        <img className='img' src=".././img/kitchen Tools.jpg" alt="" />
         <div className='flex align-middle justify-center text-[48px]'>About FastRecipes</div>
       </div>
       <div className='about-tag flex mx-[25%] w-[30vw] flex-wrap'>
