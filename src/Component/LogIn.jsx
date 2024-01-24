@@ -8,7 +8,7 @@ import { FaGoogle } from "react-icons/fa";
 function LogIn() {
     return (
         <div className='mx-0 flex login' >
-            <img className='w-[50%] h-screen object-cover bg-cover bg-center mr-20' src=".././img/login.jpg" alt="" />
+            <img className='w-[50%] h-screen object-cover bg-cover bg-center mr-20' src="/.././img/login.jpg" alt="" />
 
             <div className='mt-[15%]'>
                 <h2 className='flex  rounded-md shadow-xl text-orange-800  font-semibold w-32'><ImSpoonKnife /> <h4><Link to={"/"}>FastRecipes</Link></h4></h2>
